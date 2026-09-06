@@ -1,107 +1,136 @@
-# Google Play Store Analysis
+# 📱 Google Play Store Data Analysis
 
-## Objective
+## 📌 Project Overview
 
-Analyze the Google Play Store ecosystem using Python to identify
-patterns in app categories, ratings, installs, pricing, app size,
-estimated revenue, and user sentiment.
+This project analyzes Google Play Store application data to identify meaningful patterns and insights related to app ratings, installs, reviews, categories, pricing, size, and user sentiment.
 
-## Tech Stack
+The project includes data cleaning, preprocessing, exploratory data analysis, visualization, and sentiment analysis using Python.
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- VADER
-- Plotly
-- Jupyter Notebook
+---
 
-## Dataset
+## 🎯 Objectives
 
-The project uses Google Play Store app and user review datasets.
+- Analyze the distribution of apps across different categories
+- Study app ratings and user reviews
+- Analyze installation trends
+- Compare free and paid applications
+- Explore the relationship between app size and installs
+- Analyze pricing and estimated revenue of paid applications
+- Perform sentiment analysis on user reviews
+- Generate meaningful business insights from the data
 
-- `play_store_apps.csv` — Contains information about applications,
-  including category, rating, size, installs, type, price, and other attributes.
-- `play_store_reviews.csv` — Contains user reviews and sentiment-related data.
-- `google_play_store_analysis_summary.xlsx` — Contains analysis summary information.
+---
 
-## Analysis Performed
+## 🛠️ Technologies Used
 
-- Data cleaning and preprocessing
-- Handling missing values and duplicate records
-- App category distribution
-- Category saturation analysis
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Plotly**
+- **Jupyter Notebook**
+
+---
+
+## 📂 Dataset
+
+The project uses two Google Play Store datasets:
+
+- [`play_store_apps.csv`](./play_store_apps.csv) — Contains application information such as category, rating, reviews, installs, price, size, and type.
+- [`play_store_reviews.csv`](./play_store_reviews.csv) — Contains user reviews and sentiment information.
+
+---
+
+## 🔍 Analysis Performed
+
+### 1. Data Cleaning & Preprocessing
+
+- Handled missing values
+- Removed duplicate records
+- Cleaned numerical columns
+- Converted columns into appropriate data types
+- Processed app size, installs, and price values
+- Prepared review data for sentiment analysis
+
+### 2. Exploratory Data Analysis
+
+The analysis covers:
+
+- Category distribution
 - Rating distribution
-- Average rating by category
-- App size vs installs analysis
-- Free vs paid app analysis
-- Paid app price distribution
-- Estimated revenue analysis
-- User review sentiment analysis
-- Sentiment distribution
-- Sentiment analysis by category
-- Interactive Plotly visualization
+- Size vs Installs
+- Free vs Paid applications
+- Interactive visualizations
+- User sentiment distribution
 
-## Key Insights
+### 3. Business Insights
 
-1. The Google Play Store is dominated by free applications, while
-   paid applications represent a much smaller portion of the dataset.
+The analysis provides insights into:
 
-2. App categories show different levels of popularity and competition,
-   with some categories containing significantly more applications
-   than others.
+- Popular Google Play Store categories
+- Distribution of app ratings
+- Relationship between app size and installations
+- Differences between free and paid apps
+- User sentiment and review patterns
+- Pricing and estimated revenue trends
 
-3. Most applications have relatively positive ratings, indicating
-   generally favorable user experiences.
+---
 
-4. App size does not have a simple direct relationship with the
-   number of installs, as applications of different sizes can achieve
-   high install counts.
+# 📊 Final Summary
 
-5. User reviews contain a strong proportion of positive sentiment,
-   while negative reviews highlight opportunities for improving
-   application quality and user experience.
+![Final Summary](./screenshots/final-summary.png)
 
-6. The analysis of pricing, installs, and ratings provides useful
-   insights into potential monetization and application performance.
+---
 
-## Screenshots
+# 📸 Screenshots
 
-### 1. Category Distribution
+## 1. Category Distribution
+
 ![Category Distribution](./screenshots/Category-distribution.png)
 
-### 2. Rating Distribution
+---
+
+## 2. Rating Distribution
+
 ![Rating Distribution](./screenshots/Rating-distribution.png)
 
-### 3. Size vs Installs
+---
+
+## 3. Size vs Installs
+
 ![Size vs Installs](./screenshots/Size-vs-installs.png)
 
-### 4. Free vs Paid Apps
+---
+
+## 4. Free vs Paid Apps
+
 ![Free vs Paid Apps](./screenshots/free-vs-paid.png)
 
-### 5. Interactive Plotly
+---
+
+## 5. Interactive Plotly Visualization
+
 ![Interactive Plotly](./screenshots/interactive-plotly.png)
 
-### 6. Sentiment Distribution
+---
+
+## 6. Sentiment Distribution
+
 ![Sentiment Distribution](./screenshots/sentiment-distribution.png)
 
-## Project Structure
+---
 
-```text
-DataAnalytics-L2-Task4-GooglePlayStoreAnalysis/
-│
-├── Google_Play_Store_Analysis.ipynb
-├── google_play_store_analysis_summary.xlsx
-├── play_store_apps.csv
-├── play_store_reviews.csv
-│
-├── screenshots/
-│   ├── interactive-plotly.png
-│   ├── sentiment-distribution.png
-│   ├── free-vs-paid.png
-│   ├── Size-vs-installs.png
-│   ├── Rating-distribution.png
-│   └── Category-distribution.png
-│
-└── README.md
+# 📓 Project Notebook
+
+The complete analysis and code are available in:
+
+[`Google_Play_Store_Analysis.ipynb`](./Google_Play_Store_Analysis.ipynb)
+
+---
+
+# 🚀 How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/OBSIP.git
