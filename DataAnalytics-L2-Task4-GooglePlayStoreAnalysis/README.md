@@ -89,7 +89,7 @@ The project uses Google Play Store app and user review datasets.
 ## Project Structure
 
 ```text
-OIBSIP-L2-TASK4/
+DataAnalytics-L2-Task4-GooglePlayStoreAnalysis/
 │
 ├── Google_Play_Store_Analysis.ipynb
 ├── google_play_store_analysis_summary.xlsx
