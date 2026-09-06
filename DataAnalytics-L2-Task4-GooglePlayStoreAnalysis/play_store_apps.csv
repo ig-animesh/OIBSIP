@@ -1,0 +1,90 @@
+App,Category,Rating,Reviews,Size,Installs,Type,Price
+WhatsApp Messenger,COMMUNICATION,4.3,158945000,58M,"1,000,000,000+",Free,0
+Instagram,SOCIAL,4.5,665774000,38M,"1,000,000,000+",Free,0
+Facebook,SOCIAL,4.1,781583000,Varies with device,"1,000,000,000+",Free,0
+YouTube,VIDEO_PLAYERS,4.3,256235000,Varies with device,"1,000,000,000+",Free,0
+Google Maps,TRAVEL_AND_LOCAL,4.3,92316100,35M,"1,000,000,000+",Free,0
+Spotify Music,MUSIC_AND_AUDIO,4.5,45500000,Varies with device,"100,000,000+",Free,0
+Netflix,VIDEO_PLAYERS,4.4,5450000,Varies with device,"100,000,000+",Free,0
+Google Drive,PRODUCTIVITY,4.4,27311700,Varies with device,"1,000,000,000+",Free,0
+Microsoft Word,PRODUCTIVITY,4.4,40200000,Varies with device,"500,000,000+",Free,0
+Microsoft Excel,PRODUCTIVITY,4.5,24400000,Varies with device,"500,000,000+",Free,0
+Duolingo,FAMILY,4.7,11200000,Varies with device,"100,000,000+",Free,0
+Khan Academy,FAMILY,4.5,1750000,Varies with device,"10,000,000+",Free,0
+Google Keep,PRODUCTIVITY,4.4,6920000,Varies with device,"500,000,000+",Free,0
+Evernote,PRODUCTIVITY,4.6,1800000,Varies with device,"100,000,000+",Free,0
+Adobe Acrobat Reader,PRODUCTIVITY,4.3,5600000,Varies with device,"500,000,000+",Free,0
+Candy Crush Saga,GAME,4.4,22400000,74M,"1,000,000,000+",Free,0
+Subway Surfers,GAME,4.5,35000000,76M,"1,000,000,000+",Free,0
+Clash of Clans,GAME,4.6,53000000,Varies with device,"500,000,000+",Free,0
+Minecraft,GAME,4.5,5200000,Varies with device,"50,000,000+",Paid,6.99
+Monument Valley,GAME,4.8,240000,280M,"5,000,000+",Paid,3.99
+Adobe Lightroom,PHOTOGRAPHY,4.3,2250000,Varies with device,"100,000,000+",Free,0
+Snapseed,PHOTOGRAPHY,4.5,1700000,Varies with device,"100,000,000+",Free,0
+PicsArt Photo Editor,PHOTOGRAPHY,4.3,11300000,Varies with device,"500,000,000+",Free,0
+Canva,ART_AND_DESIGN,4.7,5200000,Varies with device,"100,000,000+",Free,0
+SketchBook,ART_AND_DESIGN,4.5,620000,Varies with device,"100,000,000+",Free,0
+Headspace,HEALTH_AND_FITNESS,4.5,250000,Varies with device,"10,000,000+",Free,0
+Calm,HEALTH_AND_FITNESS,4.4,480000,Varies with device,"10,000,000+",Free,0
+Fitbit,HEALTH_AND_FITNESS,4.1,730000,Varies with device,"50,000,000+",Free,0
+MyFitnessPal,HEALTH_AND_FITNESS,4.6,2400000,Varies with device,"100,000,000+",Free,0
+Pocket Casts,MUSIC_AND_AUDIO,4.3,55000,Varies with device,"1,000,000+",Paid,3.99
+Poweramp Full Version Unlocker,MUSIC_AND_AUDIO,4.6,95000,5.2M,"1,000,000+",Paid,4.99
+Nova Launcher Prime,PERSONALIZATION,4.7,350000,8.5M,"10,000,000+",Paid,4.99
+Tasker,TOOLS,4.6,430000,Varies with device,"10,000,000+",Paid,3.49
+Torque Pro,TOOLS,4.2,155000,Varies with device,"1,000,000+",Paid,4.95
+Weather & Clock Widget,WEATHER,4.4,210000,12M,"10,000,000+",Free,0
+AccuWeather,WEATHER,4.2,2800000,Varies with device,"100,000,000+",Free,0
+Dictionary.com,BOOKS_AND_REFERENCE,4.5,650000,Varies with device,"10,000,000+",Free,0
+Moon+ Reader Pro,BOOKS_AND_REFERENCE,4.6,65000,Varies with device,"1,000,000+",Paid,4.99
+Mint,FINANCE,4.3,180000,Varies with device,"10,000,000+",Free,0
+Wallet,FINANCE,4.6,110000,Varies with device,"5,000,000+",Free,0
+Udemy,EDUCATION,4.5,1050000,Varies with device,"10,000,000+",Free,0
+Coursera,EDUCATION,4.4,230000,Varies with device,"10,000,000+",Free,0
+LinkedIn,BUSINESS,4.2,22000000,Varies with device,"1,000,000,000+",Free,0
+Indeed Job Search,BUSINESS,4.4,5500000,Varies with device,"100,000,000+",Free,0
+Google News,NEWS_AND_MAGAZINES,4.2,1300000,Varies with device,"1,000,000,000+",Free,0
+Flipboard,NEWS_AND_MAGAZINES,4.1,1300000,Varies with device,"500,000,000+",Free,0
+Zillow,HOUSE_AND_HOME,4.5,450000,Varies with device,"10,000,000+",Free,0
+Houzz,HOUSE_AND_HOME,4.6,380000,Varies with device,"10,000,000+",Free,0
+Pinterest,SOCIAL,4.6,43000000,Varies with device,"500,000,000+",Free,0
+Reddit,SOCIAL,4.2,2400000,Varies with device,"100,000,000+",Free,0
+Twitter,SOCIAL,4.3,18000000,Varies with device,"500,000,000+",Free,0
+Telegram,COMMUNICATION,4.4,8500000,Varies with device,"500,000,000+",Free,0
+Signal Private Messenger,COMMUNICATION,4.6,450000,Varies with device,"10,000,000+",Free,0
+ABC Kids,FAMILY,4.6,38789,8M,"50,000+",Free,0
+Kids Learning,FAMILY,4.7,52578,12M,"100,000+",Free,0
+Family Locator,FAMILY,4.0,66367,16M,"500,000+",Free,0
+Baby Tracker,FAMILY,4.1,80156,20M,"1,000,000+",Free,0
+Chess,GAME,4.4,38789,8M,"50,000+",Free,0
+Sudoku,GAME,4.5,52578,12M,"100,000+",Free,0
+Fruit Ninja,GAME,4.6,66367,16M,"500,000+",Free,0
+Angry Birds,GAME,4.7,80156,20M,"1,000,000+",Free,0
+Flashlight,TOOLS,4.5,38789,8M,"50,000+",Free,0
+QR Scanner,TOOLS,4.6,52578,12M,"100,000+",Free,0
+File Manager,TOOLS,4.7,66367,16M,"500,000+",Free,0
+Unit Converter,TOOLS,4.0,80156,20M,"1,000,000+",Free,0
+Todoist,PRODUCTIVITY,4.4,38789,8M,"50,000+",Free,0
+Trello,PRODUCTIVITY,4.5,52578,12M,"100,000+",Free,0
+Notion,PRODUCTIVITY,4.6,66367,16M,"500,000+",Free,0
+Google Calendar,PRODUCTIVITY,4.7,80156,20M,"1,000,000+",Free,0
+Photo Editor,PHOTOGRAPHY,4.3,38789,8M,"50,000+",Free,0
+VSCO,PHOTOGRAPHY,4.4,52578,12M,"100,000+",Free,0
+Pixlr,PHOTOGRAPHY,4.5,66367,16M,"500,000+",Free,0
+Photo Collage,PHOTOGRAPHY,4.6,80156,20M,"1,000,000+",Free,0
+TripAdvisor,TRAVEL_AND_LOCAL,4.0,38789,8M,"50,000+",Free,0
+Booking Travel,TRAVEL_AND_LOCAL,4.1,52578,12M,"100,000+",Free,0
+Citymapper,TRAVEL_AND_LOCAL,4.2,66367,16M,"500,000+",Free,0
+Uber,TRAVEL_AND_LOCAL,4.3,80156,20M,"1,000,000+",Free,0
+Zomato,FOOD_AND_DRINK,4.6,38789,8M,"50,000+",Free,0
+Swiggy,FOOD_AND_DRINK,4.7,52578,12M,"100,000+",Free,0
+Allrecipes,FOOD_AND_DRINK,4.0,66367,16M,"500,000+",Free,0
+BigOven,FOOD_AND_DRINK,4.1,80156,20M,"1,000,000+",Free,0
+Amazon Shopping,SHOPPING,4.0,38789,8M,"50,000+",Free,0
+eBay,SHOPPING,4.1,52578,12M,"100,000+",Free,0
+Walmart,SHOPPING,4.2,66367,16M,"500,000+",Free,0
+Etsy,SHOPPING,4.3,80156,20M,"1,000,000+",Free,0
+ESPN,SPORTS,4.6,38789,8M,"50,000+",Free,0
+FIFA,SPORTS,4.7,52578,12M,"100,000+",Free,0
+NBA App,SPORTS,4.0,66367,16M,"500,000+",Free,0
+Cricbuzz,SPORTS,4.1,80156,20M,"1,000,000+",Free,0
