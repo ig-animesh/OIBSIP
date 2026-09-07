@@ -199,7 +199,14 @@ The project converts raw retail transaction data into visual and analytical insi
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `EDA` · `Data Analysis` · `Data Visualization`
 
 ---
+## 🏢 Internship
 
-## 🏷️ Tags
+**Oasis Infobyte — Data Analytics Internship**
 
-`#Python` `#Pandas` `#NumPy` `#Matplotlib` `#Seaborn` `#EDA` `#DataAnalysis` `#DataVisualization` `#RetailAnalytics` `#OIBSIP`
+**Level 1 • Task 1 — Retail Sales EDA**
+
+
+
+
+
+
