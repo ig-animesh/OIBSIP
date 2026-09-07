@@ -1,0 +1,115 @@
+Customer_ID,Customer_Name,Gender,Age,City,Annual_Income,Purchase_Amount,Purchase_Date,Membership_Status,Payment_Method
+CUST1019,Sneha Mishra,Female,59,Delhi,35949.0,657.15,2025-02-24,No,UPI
+CUST1043,Pooja Sinha,Male,25,Kanpur,43284.0,11541.9,2025-05-07,Yes,UPI
+CUST1037,Vikram Joshi,Female,52,Agra,46964.0,8468.17,2025-04-19,Yes,Cash
+CUST1077,Rahul Yadav,Male,43,Delhi,79115.0,5935.62,2025-08-17,No,UPI
+CUST1054,Vikram Joshi,Male,23,Delhi,59124.0,5926.93,2025-06-09,No,Credit Card
+CUST1092,Neha Kapoor,Male,44,Delhi,71975.0,9626.28,2025-10-01,Yes,Credit Card
+CUST1057,Rohan Verma,Female,39,Agra,92752.0,14235.1,2025-06-18,Yes,UPI
+CUST1094,Priya Gupta,Male,44,Agra,68494.0,7090.85,2025-10-07,Yes,Debit Card
+CUST1005,Aditya Jain,Female,43,Lucknow,110738.0,11757.99,2025-01-13,No,Debit Card
+CUST1028,Ananya Singh,Female,57,Lucknow,35237.0,4751.56,2025-03-23,Yes,UPI
+CUST1117,Ananya Singh,Female,40,Jaipur,74425.0,2857.95,2025-12-15,Yes,Cash
+CUST1045,Nikhil Das,Male,26,Jaipur,114664.0,1966.28,2025-05-13,Yes,Debit Card
+CUST1097,Nikhil Das,Female,56,Delhi,57350.0,250000.0,2025-10-16,Yes,UPI
+CUST1020,Rohan Verma,Male,22,Kanpur,90000.0,13628.04,2025-02-27,Yes,Cash
+CUST1078,Pooja Sinha,Male,36,Kanpur,118223.0,4642.83,2025-08-20,No,Cash
+CUST1102,Kavya Agarwal,Female,45,Delhi,106797.0,7107.02,2025-10-31,No,Credit Card
+CUST1012,Rahul Yadav,Male,53,Jaipur,103847.0,1995.3,2025-02-03,Yes,UPI
+CUST1115,Arjun Mehta,Female,34,Noida,90692.0,12300.03,2025-12-09,No,Debit Card
+CUST1048,Nikhil Das,Female,36,Kanpur,84340.0,1555.06,2025-05-22,Yes,Debit Card
+CUST1079,Karan Malhotra,Female,46,Jaipur,169917.0,13094.69,2025-08-23,No,UPI
+CUST1001,Rahul Yadav,Female,53,Kanpur,88335.0,12199.1,2025-01-01,No,Debit Card
+CUST1027,Neha Kapoor,Male,43,Noida,37805.0,7002.46,2025-03-20,No,Cash
+CUST1032,Pooja Sinha,Female,39,Noida,33343.0,8212.535,2025-04-04,Yes,Credit Card
+CUST1068,Kavya Agarwal,Male,60,Kanpur,90160.0,664.63,2025-07-21,Yes,UPI
+CUST1013,Aditya Jain,Male,44,Lucknow,112750.0,13587.02,2025-02-06,Yes,Cash
+CUST1025,Pooja Sinha,Male,22,Jaipur,46896.0,8814.85,2025-03-14,Yes,UPI
+CUST1046,Isha Tiwari,Male,42,Lucknow,91389.0,1719.55,2025-05-16,Yes,Debit Card
+CUST1109,Isha Tiwari,Female,55,Lucknow,68513.0,8212.535,2025-11-21,No,UPI
+CUST1090,Isha Tiwari,Male,23,Lucknow,112986.0,14554.89,2025-09-25,No,Debit Card
+CUST1074,Pooja Sinha,Male,51,Delhi,81991.0,11317.65,2025-08-08,Yes,Debit Card
+CUST1065,Pooja Sinha,Male,60,Delhi,95417.0,13642.14,2025-07-12,Yes,Debit Card
+CUST1016,Arjun Mehta,Male,52,Lucknow,55945.0,5140.72,2025-02-15,No,UPI
+CUST1113,Isha Tiwari,Male,24,Jaipur,37543.0,8273.4,2025-12-03,No,Credit Card
+CUST1041,Nikhil Das,Female,58,Jaipur,97215.0,2197.47,2025-05-01,Yes,Credit Card
+CUST1082,Rohan Verma,Female,32,Kanpur,89275.0,676.24,2025-09-01,Yes,Credit Card
+CUST1086,Ananya Singh,Male,29,Kanpur,34000.0,8151.67,2025-09-13,Yes,Credit Card
+CUST1031,Aarav Sharma,Male,21,Noida,86556.0,11409.43,2025-04-01,Yes,Credit Card
+CUST1095,Neha Kapoor,Male,31,Lucknow,33373.0,9599.59,2025-10-10,No,Cash
+CUST1056,Arjun Mehta,Male,56,Delhi,65247.0,12285.59,2025-06-15,Yes,Debit Card
+CUST1010,Kavya Agarwal,Male,29,Agra,113613.0,11387.63,2025-01-28,Yes,UPI
+CUST1034,Neha Kapoor,Female,46,Jaipur,83222.0,1822.49,2025-04-10,Yes,Credit Card
+CUST1120,Sneha Mishra,Female,23,Jaipur,65735.0,14272.1,2025-12-24,No,Credit Card
+CUST1029,Pooja Sinha,Male,52,Kanpur,50056.0,3200.0,2025-03-26,Yes,Cash
+CUST1067,Ananya Singh,Male,38,Delhi,39823.0,7643.06,2025-07-18,No,Cash
+CUST1006,Sneha Mishra,Male,59,Agra,69734.0,5441.65,2025-01-16,Yes,Credit Card
+CUST1066,Isha Tiwari,Male,59,Delhi,53289.0,2112.36,2025-07-15,No,UPI
+CUST1071,Arjun Mehta,Female,48,Lucknow,46364.0,2222.86,2025-03-30,No,Cash
+CUST1040,Aditya Jain,Male,37,Kanpur,115067.0,5588.27,2025-04-28,Yes,Debit Card
+CUST1050,Rohan Verma,Female,29,Jaipur,108832.0,10740.51,2025-05-28,Yes,Cash
+CUST1036,Pooja Sinha,Male,26,Lucknow,39662.0,1334.6,2025-04-16,Yes,Credit Card
+CUST1017,Priya Gupta,Female,44,Delhi,62217.0,13485.09,2025-02-18,Yes,Debit Card
+CUST1069,Vikram Joshi,Male,21,Kanpur,71975.0,7295.58,2025-07-24,Yes,Cash
+CUST1035,Karan Malhotra,Male,52,Agra,59375.0,7669.09,2025-04-13,Yes,Credit Card
+CUST1116,Karan Malhotra,Male,41,Noida,119084.0,10428.6,2025-12-12,Yes,UPI
+CUST1008,Arjun Mehta,Male,28,Agra,103523.0,4500.0,2025-01-22,No,UPI
+CUST1119,Arjun Mehta,Male,27,Agra,48888.0,12426.79,2025-12-21,Yes,UPI
+CUST1044,Pooja Sinha,Female,54,Agra,65000.0,9464.16,2025-05-10,Yes,Debit Card
+CUST1096,Karan Malhotra,Male,28,Kanpur,42161.0,8972.56,2025-10-13,Yes,Cash
+CUST1070,Kavya Agarwal,Female,31,Kanpur,39540.0,8212.535,2025-07-27,No,UPI
+CUST1101,Ananya Singh,Male,55,Delhi,105353.0,13408.82,2025-10-28,Yes,Cash
+CUST1106,Nikhil Das,Female,38,Delhi,33267.0,7223.63,2025-11-12,Yes,Credit Card
+CUST1009,Rahul Yadav,Male,47,Agra,71975.0,6720.41,2025-01-25,No,Credit Card
+CUST1014,Aditya Jain,Male,43,Agra,109634.0,7826.16,2025-02-09,No,Cash
+CUST1110,Rahul Yadav,Female,36,Noida,56092.0,14628.72,2025-11-24,No,UPI
+CUST1004,Nikhil Das,Female,33,Lucknow,75000.0,5894.26,2025-01-10,Yes,Cash
+CUST1018,Sneha Mishra,Female,43,Jaipur,38308.0,6143.42,2025-02-21,No,Cash
+CUST1039,Aditya Jain,Female,43,Noida,103666.0,13371.71,2025-04-25,No,Credit Card
+CUST1073,Priya Gupta,Male,43,Jaipur,57663.0,9913.55,2025-08-05,No,Cash
+CUST1098,Ananya Singh,Female,58,Agra,55351.0,1158.97,2025-10-19,Yes,Debit Card
+CUST1007,Karan Malhotra,Male,26,Delhi,102615.0,13995.98,2025-01-19,No,Debit Card
+CUST1081,Nikhil Das,Female,21,Delhi,48071.0,14466.73,2025-08-29,No,Cash
+CUST1108,Sneha Mishra,Female,22,Agra,119588.0,8963.01,2025-11-18,No,Debit Card
+CUST1111,Pooja Sinha,Female,56,Jaipur,41338.0,14800.06,2025-11-27,No,UPI
+CUST1055,Rohan Verma,Male,40,Kanpur,73919.0,5874.31,2025-06-12,No,Cash
+CUST1051,Pooja Sinha,Male,26,Jaipur,81293.0,1679.56,2025-05-31,Yes,Credit Card
+CUST1084,Aarav Sharma,Male,57,Jaipur,41938.0,1125.82,2025-09-07,No,UPI
+CUST1047,Isha Tiwari,Male,31,Noida,39435.0,10664.05,2025-05-19,No,Debit Card
+CUST1085,Priya Gupta,Male,52,Agra,65195.0,13421.58,2025-09-10,No,Cash
+CUST1062,Ananya Singh,Male,52,Agra,109605.0,11768.63,2025-07-03,Yes,Cash
+CUST1033,Kavya Agarwal,Male,22,Agra,43500.0,11949.46,2025-04-07,No,Debit Card
+CUST1080,Sneha Mishra,Male,22,Noida,96387.0,3742.14,2025-08-26,No,UPI
+CUST1099,Kavya Agarwal,Female,60,Jaipur,118668.0,4573.97,2025-10-22,Yes,Cash
+CUST1042,Kavya Agarwal,Male,44,Jaipur,99042.0,2573.38,2025-05-04,No,Credit Card
+CUST1059,Arjun Mehta,Male,23,Lucknow,89101.0,11423.98,2025-06-24,No,UPI
+CUST1091,Neha Kapoor,Female,40,Noida,119643.0,8084.92,2025-09-28,No,UPI
+CUST1089,Ananya Singh,Male,36,Noida,99449.0,8530.89,2025-09-22,Yes,Credit Card
+CUST1058,Rahul Yadav,Male,46,Agra,86573.0,14797.02,2025-06-21,Yes,Cash
+CUST1076,Pooja Sinha,Female,55,Lucknow,60977.0,14451.5,2025-08-14,Yes,UPI
+CUST1118,Nikhil Das,Male,28,Noida,68756.0,13708.44,2025-12-18,Yes,UPI
+CUST1060,Vikram Joshi,Male,43,Agra,56646.0,5955.76,2025-06-27,Yes,Credit Card
+CUST1064,Vikram Joshi,Female,53,Lucknow,71975.0,6651.22,2025-07-09,Yes,UPI
+CUST1105,Isha Tiwari,Female,49,Noida,50358.0,3227.76,2025-11-09,Yes,Credit Card
+CUST1030,Arjun Mehta,Female,53,Kanpur,71975.0,10251.52,2025-03-29,Yes,UPI
+CUST1112,Vikram Joshi,Female,53,Kanpur,30412.0,10623.34,2025-11-30,No,Debit Card
+CUST1002,Priya Gupta,Male,21,Kanpur,86179.0,14862.32,2025-01-04,Yes,Cash
+CUST1053,Priya Gupta,Male,49,Lucknow,90403.0,14806.27,2025-06-06,Yes,UPI
+CUST1022,Arjun Mehta,Male,57,Agra,119480.0,5130.05,2025-03-05,Yes,Debit Card
+CUST1003,Karan Malhotra,Male,47,Noida,62093.0,6482.96,2025-01-07,Yes,UPI
+CUST1024,Sneha Mishra,Female,22,Noida,96617.0,14283.8,2025-03-11,No,Cash
+CUST1104,Priya Gupta,Male,45,Kanpur,87458.0,4522.03,2025-11-06,Yes,Debit Card
+CUST1100,Pooja Sinha,Female,40,Agra,45305.0,14280.97,2025-10-25,Yes,Debit Card
+CUST1088,Priya Gupta,Male,39,Agra,68304.0,1570.05,2025-09-19,No,UPI
+CUST1114,Sneha Mishra,Female,53,Noida,63496.0,4988.15,2025-12-06,No,UPI
+CUST1075,Nikhil Das,Male,50,Delhi,87679.0,8958.85,2025-08-11,No,UPI
+CUST1087,Sneha Mishra,Male,55,Agra,100588.0,14897.99,2025-09-16,No,Cash
+CUST1083,Isha Tiwari,Female,25,Noida,102369.0,14563.24,2025-09-04,Yes,Cash
+CUST1021,Neha Kapoor,Male,23,Noida,31150.0,1823.66,2025-03-02,Yes,Debit Card
+CUST1061,Rahul Yadav,Female,40,Delhi,53049.0,1710.76,2025-06-30,No,Credit Card
+CUST1072,Ananya Singh,Male,45,Agra,34611.0,2204.13,2025-08-02,No,Cash
+CUST1107,Nikhil Das,Female,38,Agra,112745.0,5623.61,2025-11-15,No,Credit Card
+CUST1015,Sneha Mishra,Female,52,Lucknow,58251.0,12483.63,2025-02-12,Yes,UPI
+CUST1093,Kavya Agarwal,Female,53,Delhi,116027.0,10588.36,2025-10-04,Yes,Credit Card
+CUST1052,Rahul Yadav,Male,36,Kanpur,108781.0,7800.0,2025-06-03,Yes,Debit Card
+CUST1103,Isha Tiwari,Male,55,Agra,95953.0,8212.535,2025-11-03,No,Cash
