@@ -134,3 +134,21 @@ The complete analysis and code are available in:
 
 ```bash
 git clone https://github.com/yourusername/OBSIP.git
+```
+---
+
+# 👨‍💻 Author
+
+**Animesh Kumar Halder**
+
+**BCA | Aspiring Data Analyst**
+
+Interested in **Data Analytics, Business Intelligence & Machine Learning**
+
+---
+
+## 🏢 Internship
+
+**Oasis Infobyte — Data Analytics Internship**
+
+**Level 2 • Task 4 — Google Play Store Analysis**
